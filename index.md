@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Meu nome é MB Martins, e sou uma polimata que gosta de escrever
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+abaixo, você encontra-ra meus ultimos posts, espero que se divirta!
