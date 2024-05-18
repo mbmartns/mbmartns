@@ -3,7 +3,8 @@
 Às vezes, tudo se desenrola rápido demais que não tiramos um tempo para fechar nossos olhos e entender tudo que acabou de se passar.
 Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas marcas que te deixou, pelas lágrimas, pelas músicas dedicadas, pelos beijos demorados e pelos rápidos também. Agradece por toda a sua história, pelos olhares sinceros e profundos, pelas carícias...
 
-![alt text](image.png)
+![](before_sunrise-ml.png)
+<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="/before_sunrise-ml.jpg"></button>
 
 Isso tudo é compartilhado. Isso tudo faz parte de vocês.
 E vai continuar fazendo, mesmo que você se esforce muito para esquecer... A conexão sempre deixa marcas.
@@ -47,17 +48,23 @@ E que gostoso é estar numa relação amorosa! Onde há tanta liberdade para sim
 
 Duas pessoas devem, em uma boa relação, crescerem juntas. Para isso, o caminho que desejam seguir e a forma que desejam usar a sua liberdade, devem ser compatíveis, devem convergir.
 Caminhos muito divergentes, mesmo que com bastante amor, não conseguem estar trazendo um e o outro à tona... Acabam por estar longe demais para isso, indo para posições contrárias. Mesmo com muito amor.
+
 ---
+
 Que olhar faz teu coração sentir-se em expansão?
 Que olhares te fazem sentir retraída(o)?
 Quem te traz paz?
 Quem te faz sentir grande? Aliás, te lembra que és grande?
+
 ---
+
 E você... Que quer ser esse olhar para alguém... Você ama?
 Você dá a liberdade para a pessoa ser quem é?
 Dá a liberdade da pessoa ser feliz e fazer o que quer?
 Ou você está completamente apegado ao medo de perder alguém?
+
 ---
+
 A restrição não cabe no amor, e sim, é tão difícil amar dessa forma... É um desapego do ego, talvez.
 É o amor que se desprende da ideia de *ter* alguém, que se desprende do *controle*.
 É o amor verdadeiro que te deixa vulnerável ao outro.
@@ -78,5 +85,6 @@ Por fim, vou deixar aqui uma poesia que gosto muito.
 (com uma recitação maravilhosa!)
 
 https://www.youtube.com/watch?v=cPG6nJRJeWQ
+
 
 Espero que tenha ajudado um pouco :)
