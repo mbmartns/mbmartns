@@ -43,7 +43,11 @@ Elas vêm e somem. Mas voltam! Não conseguimos segurá-las, mas elas não serve
 
 
 
-Uma relação não se sustenta dessas faíscas, entretanto. São *iluminadas* por elas.
+Uma relação não se sustenta dessas faíscas, entretanto.
+
+
+São *iluminadas* por elas.
+
 
 As tornam mais leves, pois há peso em relações. 
 
