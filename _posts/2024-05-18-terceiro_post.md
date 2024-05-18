@@ -4,7 +4,8 @@
 Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas marcas que te deixou, pelas lágrimas, pelas músicas dedicadas, pelos beijos demorados e pelos rápidos também. Agradece por toda a sua história, pelos olhares sinceros e profundos, pelas carícias...
 
 ![](before_sunrise-ml.png)
-<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="/before_sunrise-ml.jpg"></button>
+<img src="./before_sunrise-ml.png" alt="drawing" style="width:200px; float:right;">
+<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="./before_sunrise-mI.jpg"></button>
 
 Isso tudo é compartilhado. Isso tudo faz parte de vocês.
 E vai continuar fazendo, mesmo que você se esforce muito para esquecer... A conexão sempre deixa marcas.
@@ -52,16 +53,24 @@ Caminhos muito divergentes, mesmo que com bastante amor, não conseguem estar tr
 ---
 
 Que olhar faz teu coração sentir-se em expansão?
+
 Que olhares te fazem sentir retraída(o)?
+
 Quem te traz paz?
+
 Quem te faz sentir grande? Aliás, te lembra que és grande?
+
 
 ---
 
 E você... Que quer ser esse olhar para alguém... Você ama?
+
 Você dá a liberdade para a pessoa ser quem é?
+
 Dá a liberdade da pessoa ser feliz e fazer o que quer?
+
 Ou você está completamente apegado ao medo de perder alguém?
+
 
 ---
 
@@ -82,6 +91,7 @@ E pensa se você sente-se livre junto a esse amor, se o espaço entre vocês, es
 Agradece por tudo.
 
 Por fim, vou deixar aqui uma poesia que gosto muito.
+
 (com uma recitação maravilhosa!)
 
 https://www.youtube.com/watch?v=cPG6nJRJeWQ
