@@ -159,6 +159,10 @@ Por fim, vou deixar aqui uma poesia que gosto muito.
 
 <button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="https://www.youtube.com/watch?v=cPG6nJRJeWQ"></button>
 
+[![Watch the video]](https://www.youtube.com/watch?v=cPG6nJRJeWQ)
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/cPG6nJRJeWQ" title="Sarah Kay &amp; Phil Kaye - &quot;Quando O Amor Chega&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 https://www.youtube.com/watch?v=cPG6nJRJeWQ
 
 
