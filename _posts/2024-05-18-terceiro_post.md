@@ -8,9 +8,10 @@ Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas ma
 
 Isso tudo é compartilhado. Isso tudo faz parte de vocês.
 
-E vai continuar fazendo, mesmo que você se esforce muito para esquecer... A conexão sempre deixa marcas.
 
+E vai continuar fazendo, mesmo que você se esforce muito para esquecer... A conexão sempre deixa marcas.
 E essas marcas, essas lembranças... Podem ser guardadas no local mais escuro de seu ser, largadas, onde você evita ao máximo abrir as gavetas e desempoeirar...
+
 
 
 Ou podem ser expostas em cima de suas prateleiras, com a emolduração mais bonita que achares, como relíquias.
@@ -36,19 +37,23 @@ E os grandes gestos! As grandes declarações...
 Tão belas, mas também tão leves, são como faíscas.
 
 
+
 Elas vêm e somem. Mas voltam! Não conseguimos segurá-las, mas elas não servem para isso, não existem para sempre apreendidas, elas existem para serem sentidas, admiradas, para trazer a beleza inexplicável, divina, para trazer isso que chamamos de conexão.
+
+
 
 
 Uma relação não se sustenta dessas faíscas, entretanto. São *iluminadas* por elas.
 
 As tornam mais leves, pois há peso em relações. 
 
-ornam elas mais belas, pois às vezes é difícil de enxergar a beleza em meio a tanta confusão, no meio de tanto caos...
+Tornam elas mais belas, pois às vezes é difícil de enxergar a beleza em meio a tanta confusão, no meio de tanto caos...
 
 Sim, essas faíscas, essas palpitações nos relembram do porquê gostamos tanto de estar aqui, junto a esse outro ser vivo.
 
-
 Alimente suas faíscas, mas saiba que não são elas que criam o espaço da vida numa relação.
+
+
 
 
 É preciso haver espaço para a liberdade, uma relação não é uma prisão, ao menos, se há amor, não deve ser.
@@ -60,9 +65,13 @@ Essa, para mim, é a sua principal função.
 Um relacionamento amoroso, na sua própria designação, quer dizer um relacionamento que liberta o outro.
 
 
+
+
 Relacionamento, do latim relatio -  relatio: o ato de relatar ou narrar alguma situação, de trazer alguma coisa de volta.
 
 Trazer à tona algo, novamente.
+
+
 
 
 Uma das maiores bençãos que vejo em um relacionamento é exatamente por ele criar esse espaço de ser!
@@ -75,12 +84,15 @@ Não devo ter medo se sei que terei acolhimento. Sei que terei toda a liberdade 
 E que gostoso é estar numa relação amorosa! Onde há tanta liberdade para simplesmente ser quem és e sendo trazida à tona, novamente... E novamente! Que gostoso é ter esse olhar junto ao teu e ter a certeza que esse olhar vai estar ali, te dando toda a liberdade para você ser como é, te aceitando, te amando e te buscando, sempre.
 
 
+
 Duas pessoas devem, em uma boa relação, crescerem juntas. Para isso, o caminho que desejam seguir e a forma que desejam usar a sua liberdade, devem ser compatíveis, devem convergir.
 
 Caminhos muito divergentes, mesmo que com bastante amor, não conseguem estar trazendo um e o outro à tona... Acabam por estar longe demais para isso, indo para posições contrárias. Mesmo com muito amor.
 
 
+
 ---
+
 
 Que olhar faz teu coração sentir-se em expansão?
 
@@ -91,7 +103,9 @@ Quem te traz paz?
 Quem te faz sentir grande? Aliás, te lembra que és grande?
 
 
+
 ---
+
 
 E você... Que quer ser esse olhar para alguém... Você ama?
 
@@ -102,7 +116,9 @@ Dá a liberdade da pessoa ser feliz e fazer o que quer?
 Ou você está completamente apegado ao medo de perder alguém?
 
 
+
 ---
+
 
 
 A restrição não cabe no amor, e sim, é tão difícil amar dessa forma... É um desapego do ego, talvez.
@@ -118,6 +134,7 @@ Ai... Esse amor pode ferir, fazer você chorar por meses, anos... Mas é o únic
 É uma amor grandioso e eu acredito que todos nós merecemos esse tipo de amor.
 
 Pelo menos é o amor que desejo para mim.
+
 
 
 
