@@ -5,7 +5,7 @@ Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas ma
 
 ![](./before_sunrise-ml.png)
 <img src="./before_sunrise-ml.png" alt="drawing" style="width:200px; float:right;">
-<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="./before_sunrise-mI.jpg"></button>
+<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="https://pbs.twimg.com/media/CdOqn2xUMAAb-mI?format=jpg&name=large"></button>
 
 Isso tudo é compartilhado. Isso tudo faz parte de vocês.
 E vai continuar fazendo, mesmo que você se esforce muito para esquecer... A conexão sempre deixa marcas.
