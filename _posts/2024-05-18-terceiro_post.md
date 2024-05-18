@@ -4,7 +4,6 @@
 Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas marcas que te deixou, pelas lágrimas, pelas músicas dedicadas, pelos beijos demorados e pelos rápidos também. Agradece por toda a sua história, pelos olhares sinceros e profundos, pelas carícias...
 
 ![](./before_sunrise-ml.png)
-<img src="./before_sunrise-ml.png" alt="drawing" style="width:200px; float:right;">
 <button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="https://pbs.twimg.com/media/CdOqn2xUMAAb-mI?format=jpg&name=large"></button>
 
 Isso tudo é compartilhado. Isso tudo faz parte de vocês.
@@ -139,6 +138,9 @@ Agradece por tudo.
 Por fim, vou deixar aqui uma poesia que gosto muito.
 
 (com uma recitação maravilhosa!)
+
+
+<button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="https://www.youtube.com/watch?v=cPG6nJRJeWQ"></button>
 
 https://www.youtube.com/watch?v=cPG6nJRJeWQ
 
