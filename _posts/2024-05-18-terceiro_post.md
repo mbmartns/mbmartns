@@ -3,7 +3,7 @@
 Às vezes, tudo se desenrola rápido demais que não tiramos um tempo para fechar nossos olhos e entender tudo que acabou de se passar.
 Fecha teus olhos e, primeiramente, agradece. Agradece por ele, por ela, pelas marcas que te deixou, pelas lágrimas, pelas músicas dedicadas, pelos beijos demorados e pelos rápidos também. Agradece por toda a sua história, pelos olhares sinceros e profundos, pelas carícias...
 
-![](before_sunrise-ml.png)
+![](./before_sunrise-ml.png)
 <img src="./before_sunrise-ml.png" alt="drawing" style="width:200px; float:right;">
 <button style="position:relative;cursor:pointer;width:740px;height:557px;background:none;border:none;padding:0;" aria-hidden="true"><img style="width:100%;height:100%;" data-uri="11169" src="./before_sunrise-mI.jpg"></button>
 
